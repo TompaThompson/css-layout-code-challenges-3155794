@@ -10,3 +10,9 @@
   width: 50%;
   border: 0.5rem solid red;
 }
+
+.wrapper {
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
